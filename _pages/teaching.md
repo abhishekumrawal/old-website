@@ -38,3 +38,9 @@ Intsructor at University of Delhi
 - Paper 404-406 (vi) Advanced Statistical Computing and Data Mining
 - Paper 102 Probability Theory
 - Lab Courses in SPSS, R, MATLAB, and C
+
+Instructor at Bridge School of Management (in collaboration with Northwestern University)
+
+- Module 2 Modeling Methods
+- Module 3 Advanced Modeling Methods
+- Module 4 Analytics Communication and Management
