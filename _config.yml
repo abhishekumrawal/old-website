@@ -6,7 +6,7 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Abhishek
 middle_name: K.
 last_name: Umrawal
-email: aumrawal@umbc.edu
+email: aumrawal@purdue.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
@@ -97,7 +97,7 @@ facebook_id: # your facebook id
 discord_id: # your discord id (18-digit unique numerical identifier)
 
 contact_note: >
-  The best way to reach me is to send an email to aumrawal[at]umbc[dot]edu.
+  The best way to reach me is to send an email to aumrawal[at]purdue[dot]edu.
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
