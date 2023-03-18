@@ -19,9 +19,13 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi! This is Abhishek. I am a Visiting Lecturer in the Department of Computer Science and Electrical Engineering at the University of Maryland, Baltimore County, and a Ph.D. Candidate in the School of Industrial Engineering at Purdue University. 
+Hi! This is Abhishek. I am a Visiting Lecturer in the Department of Computer Science and Electrical Engineering at the University of Maryland, Baltimore County. I am also a Ph.D. Candidate and Bilsland Dissertation Fellow in the School of Industrial Engineering at Purdue University. 
 
-My research interests are causal learning, reinforcement learning, optimization, algorithms, computational social science, and intelligent transportation.
+I am broadly interested in causal learning, reinforcement learning, optimization, algorithms, computational social science, and intelligent transportation.
+
+My recent research is focused on on developing efficient machine learning algorithms for influence maximization on social networks, combinatorial multi-armed bandits, intelligent transportation systems, causal inference, and statistical power analysis. I have published high-quality research papers at highly competitive venues like AAAI, UAI, ALT, ICAPS, IEEE Transactions, and ACM Transactions.
+
+Prior to my Ph.D., I received an MS in Economics from Purdue University and an MSc in Statistics from Indian Institute of Technology Kanpur.
 
 [//]: <> Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
