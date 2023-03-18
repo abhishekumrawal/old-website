@@ -2,8 +2,8 @@
 layout: about
 title: about
 permalink: /
-subtitle1: <a href='#'>Purdue University</a>. aumrawal@purdue.edu.
-subtitle2: <a href='#'>University of Maryland, Baltimore County</a>. aumrawal@umbc.edu.
+subtitle: <a href='purdue.edu'>Purdue University</a>. aumrawal@purdue.edu.
+subtitle: <a href='umbc.edu'>University of Maryland, Baltimore County</a>. aumrawal@umbc.edu.
 
 profile:
   align: right
