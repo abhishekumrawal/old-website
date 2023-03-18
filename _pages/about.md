@@ -25,13 +25,7 @@ I am a **Visiting Lecturer** in the Department of Computer Science and Electrica
 
 I am also a **Ph.D. Candidate and Bilsland Dissertation Fellow** in the School of Industrial Engineering at Purdue University. 
 
-My research focuses on developing efficient machine learning algorithms for 
-
-- *influence maximization on social networks* (IEEE TETCI, ACM TDS)
-- *combinatorial multi-armed bandits for online subset selection* (AAAI, ALT, UAI) 
-- *causal artificial intelligence for randomized experiments* (CLeaR)
-- *efficient and intelligent transportation* (IEEE T-ITS, ICAPS) 
-- *statistical power analysis* (IMPS)
+My research focuses on developing efficient machine learning algorithms for influence maximization and disease-outbreak prevention on social networks (IEEE TETCI, ACM TDS), combinatorial multi-armed bandits for online subset selection (AAAI, ALT, UAI), causal artificial intelligence for randomized experiments (CLeaR), efficient and intelligent transportation* (IEEE T-ITS, ICAPS), and statistical power analysis (IMPS).
 
 I received an MS in Economics from Purdue University and an MSc in Statistics from Indian Institute of Technology Kanpur.
 
