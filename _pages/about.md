@@ -31,7 +31,7 @@ My research focuses on developing efficient machine learning algorithms for
 - *combinatorial multi-armed bandits for online subset selection* (AAAI, ALT, UAI) 
 - *causal artificial intelligence for randomized experiments* (CLeaR)
 - *efficient and intelligent transportation* (IEEE T-ITS, ICAPS) 
-- *statistical power analysis* (IMPS).
+- *statistical power analysis* (IMPS)
 
 I received an MS in Economics from Purdue University and an MSc in Statistics from Indian Institute of Technology Kanpur.
 
