@@ -7,6 +7,34 @@ nav: true
 nav_order: 5
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+Instructor at UMBC:
 
-Organize your courses by years, topics, or universities, however you like!
+- CMSC 471 Introduction to Artificial Intelligence
+- CMSC 478 Introduction to Machine Learning
+- CMSC 451 Automata Theory and Formal Languages
+- CMSC 447 Software Engineering - I
+
+Recitation Instructor at Purdue University:
+
+- MA 162 Plane Analytic Geometry and Calculus II
+
+Graduate Teaching Assistant at Purdue University:
+
+- IE 335 Operations Research - Optimization
+- IE 546 Economic Decisions in Engineering, 
+- IE 330 Probability and Statistics in Engineering II 
+- ENGR 131 Transforming Ideas to Innovation I
+- ENGR 132 Transforming Ideas to Innovation II
+- ENGR 133 Transforming Ideas to Innovation EPICS
+- NCN URE Summer 2018 
+
+Instructor at Johns Hopkins University
+
+- GMTH Game Theory and Economics
+
+Intsructor at University of Delhi
+
+- Paper 401 Econometrics and Time Series Analysis
+- Paper 404-406 (vi) Advanced Statistical Computing and Data Mining
+- Paper 102 Probability Theory
+- Lab Courses in SPSS, R, MATLAB, and C
