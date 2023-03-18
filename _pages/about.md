@@ -2,15 +2,15 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Purdue University</a>. aumrawal@purdue.edu.
-subtitle: <a href='#'>University of Maryland, Baltimore County</a>. aumrawal@umbc.edu.
+subtitle1: <a href='#'>Purdue University</a>. aumrawal@purdue.edu.
+subtitle2: <a href='#'>University of Maryland, Baltimore County</a>. aumrawal@umbc.edu.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
   address: >
-    <p>201C Information Technology & Engineering Building</p>
+    <p>201C ITE Building</p>
     <p>1000 Hilltop Circle</p>
     <p>Baltimore, MD 21227</p>
 
